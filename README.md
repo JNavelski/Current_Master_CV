@@ -1,6 +1,6 @@
 # Current_Master_CV
 A full timeline of all my academic and professional experiences.
-
+```math
 \section{ACADEMIC \\BACKGROUND}
 
 {\sl Ph.D. in Economics} \hfill 2023 (Expected) \\
@@ -83,3 +83,4 @@ J. Pascual and J. Navelski, \href{https://doi.org/10.1080/00224065.2022.2080617}
 	\item[] WSU SES Excellence in Teaching Award \hfill 2021
 	\item[] UofA AREC Meritorious Graduate Teaching Assistant \hfill 2018
 \end{itemize}
+```
