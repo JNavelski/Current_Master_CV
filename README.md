@@ -1,6 +1,6 @@
 # Current_Master_CV
 A full timeline of all my academic and professional experiences.
-```math
+```latex
 \section{ACADEMIC \\BACKGROUND}
 
 {\sl Ph.D. in Economics} \hfill 2023 (Expected) \\
